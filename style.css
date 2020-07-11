@@ -1,0 +1,27 @@
+.main{
+    border: 2px solid black;
+    width: 182px;
+    background-color: darkcyan;
+}
+.result{
+    width: 174px;
+ 
+}
+.clrbtn{
+    background-color: white;
+    width: 182px;
+}
+.btn{
+    width: 42.5px;
+    background-color: white;
+    
+    
+}
+.btn-1{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.btn2{
+    background-color: white;
+    width: 40%;
+}
